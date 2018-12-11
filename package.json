@@ -1,0 +1,24 @@
+{
+  "name": "pruebasnode",
+  "version": "1.0.0",
+  "description": "practicas de nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node modulos/http/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gon64/pruebasnode.git"
+  },
+  "author": "Gon_zillA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gon64/pruebasnode/issues"
+  },
+  "homepage": "https://github.com/gon64/pruebasnode#readme"
+}
